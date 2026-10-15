@@ -1792,5 +1792,92 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-10-15",
+    "topics": [
+      {
+        "title": "MCU Movies & Shows",
+        "sentences": [
+          [
+            1,
+            "I don't think the recent MCU movies and shows are as good as they used to be."
+          ],
+          [
+            2,
+            "I can't keep up with all the Marvel shows."
+          ],
+          [
+            3,
+            "The more movies they release, the more the quality seems to drop."
+          ],
+          [
+            4,
+            "Some characters just come out of nowhere."
+          ],
+          [
+            5,
+            "They used to be really good at portraying characters' emotions."
+          ],
+          [
+            6,
+            "They have to live up to the audience's expectations."
+          ],
+          [
+            7,
+            "I have mixed feelings about the recent MCU movies and shows."
+          ],
+          [
+            8,
+            "I've never seen action scenes like that before."
+          ],
+          [
+            9,
+            "That scene blew my mind."
+          ]
+        ]
+      },
+      {
+        "title": "The Mentalist",
+        "sentences": [
+          [
+            10,
+            "He has a tragic backstory."
+          ],
+          [
+            11,
+            "He always has a smile on his face, but deep down, he's analysing the person he's talking to."
+          ],
+          [
+            12,
+            "I think he's always carrying this anger towards Red John."
+          ],
+          [
+            13,
+            "It feels like we're part of the team, trying to solve the mystery alongside Jane."
+          ],
+          [
+            14,
+            "Most episodes have their own murder case, so you can enjoy each episode without having to follow the entire storyline."
+          ],
+          [
+            15,
+            "The mystery kept me hooked."
+          ],
+          [
+            16,
+            "I love the slow unraveling of the mystery."
+          ],
+          [
+            17,
+            "I've watched the whole series twice."
+          ],
+          [
+            18,
+            "On top of that, Red John is mysterious too."
+          ]
+        ]
+      }
+    ]
   }
 ]
