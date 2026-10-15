@@ -1644,7 +1644,7 @@
     "date": "2026-10-14",
     "topics": [
       {
-        "title": "Moving In Together",
+        "title": "Moving in Together",
         "sentences": [
           [
             1,
@@ -1681,7 +1681,12 @@
           [
             9,
             "If you don't feel like doing the housework, just let your partner know."
-          ],
+          ]
+        ]
+      },
+      {
+        "title": "Comedy & TV",
+        "sentences": [
           [
             10,
             "There's one more thing I'm looking forward to: watching TV with her."
@@ -1701,7 +1706,12 @@
           [
             14,
             "Watching comedy shows together is more fun than watching them alone."
-          ],
+          ]
+        ]
+      },
+      {
+        "title": "Negotiating with My Brother",
+        "sentences": [
           [
             15,
             "He was like, 'I'm not giving you the TV for free.'"
@@ -1732,38 +1742,47 @@
           ],
           [
             22,
+            "He's pretty tight with money."
+          ]
+        ]
+      },
+      {
+        "title": "Furniture & Moving Expenses",
+        "sentences": [
+          [
+            23,
             "We bought a two-seater sofa from a vintage furniture store."
           ],
           [
-            23,
+            24,
             "I wasn't really into the sofa at first, but my girlfriend absolutely loved it."
           ],
           [
-            24,
+            25,
             "It's a soft, earthy shade of moss green, not a bright or vivid green."
           ],
           [
-            25,
+            26,
             "She loves that cozy, earthy aesthetic you see in Ghibli movies."
           ],
           [
-            26,
+            27,
             "It was originally 30,000 yen, but we got it for 24,000 yen."
           ],
           [
-            27,
+            28,
             "We still need to buy a bunch of appliances, like a fridge and a washing machine."
           ],
           [
-            28,
+            29,
             "Moving out is way more expensive than I expected."
           ],
           [
-            29,
+            30,
             "I've been putting some money aside every month."
           ],
           [
-            30,
+            31,
             "I'm saving up so that I don't have to rely on my parents financially."
           ]
         ]
