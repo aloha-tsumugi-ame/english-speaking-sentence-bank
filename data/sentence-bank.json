@@ -1879,5 +1879,84 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-10-19",
+    "topics": [
+      {
+        "title": "Waking Up Early",
+        "sentences": [
+          [
+            1,
+            "I wouldn't say it's overrated."
+          ],
+          [
+            2,
+            "I think it depends on whether you're a night owl or an early bird."
+          ],
+          [
+            3,
+            "What works for one person might not work for another."
+          ],
+          [
+            4,
+            "If you wake up early, you have plenty of time to do other things."
+          ],
+          [
+            5,
+            "You can take your time enjoying your morning coffee."
+          ],
+          [
+            6,
+            "Getting enough sleep is more important than waking up early."
+          ],
+          [
+            7,
+            "I think it's important to track your sleep."
+          ],
+          [
+            8,
+            "You can figure out how to improve your sleep quality."
+          ]
+        ]
+      },
+      {
+        "title": "Pokémon Sleep & Smartphones",
+        "sentences": [
+          [
+            9,
+            "I used to use an app called Pokémon Sleep."
+          ],
+          [
+            10,
+            "What I liked about it was that it made going to bed early feel like a game."
+          ],
+          [
+            11,
+            "I got tired of setting up the app every night."
+          ],
+          [
+            12,
+            "I ended up scrolling through social media whenever I brought my phone to bed."
+          ],
+          [
+            13,
+            "The app was supposed to help me sleep better, but it actually made my sleep worse."
+          ],
+          [
+            14,
+            "Smartphones are incredibly convenient, but it's hard to maintain a healthy relationship with them."
+          ],
+          [
+            15,
+            "I think people all over the world struggle with smartphone addiction."
+          ],
+          [
+            16,
+            "Smartphone addiction has become a major social issue."
+          ]
+        ]
+      }
+    ]
   }
 ]
