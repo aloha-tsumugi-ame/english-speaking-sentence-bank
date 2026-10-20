@@ -1958,5 +1958,122 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-10-20",
+    "topics": [
+      {
+        "title": "Travel Planning",
+        "sentences": [
+          [
+            1,
+            "It depends on the day and what I'm doing."
+          ],
+          [
+            2,
+            "I'd plan everything—flights, hotels, a rental car, stuff like that."
+          ],
+          [
+            3,
+            "When it comes to food, I like to just wander around and see what looks good."
+          ],
+          [
+            4,
+            "I want to make the most of my time there."
+          ]
+        ]
+      },
+      {
+        "title": "Flight Delays",
+        "sentences": [
+          [
+            5,
+            "If the flight gets delayed, I can still enjoy walking around the airport and checking out the shops."
+          ],
+          [
+            6,
+            "It might turn into a good memory."
+          ],
+          [
+            7,
+            "You don't have to let it ruin your trip."
+          ],
+          [
+            8,
+            "You can just make the best of it."
+          ]
+        ]
+      },
+      {
+        "title": "A Rapper I Like",
+        "sentences": [
+          [
+            9,
+            "A rapper I like used to say that all the time."
+          ],
+          [
+            10,
+            "The sadness has slowly faded over time."
+          ],
+          [
+            11,
+            "I've gotten over it."
+          ],
+          [
+            12,
+            "I picked myself back up."
+          ],
+          [
+            13,
+            "They could both rap and produce their own beats."
+          ],
+          [
+            14,
+            "Two of the members have passed away."
+          ],
+          [
+            15,
+            "He passed away about eight years ago."
+          ],
+          [
+            16,
+            "Their music used to give me a lot of energy."
+          ],
+          [
+            17,
+            "But now that they're gone, their music hits me differently."
+          ]
+        ]
+      },
+      {
+        "title": "Living Life to the Fullest",
+        "sentences": [
+          [
+            18,
+            "I feel like I should do something more special with my life."
+          ],
+          [
+            19,
+            "One of my favorite lines from Kid Fresino is, “Life is not too short, but life is not so long.”"
+          ],
+          [
+            20,
+            "There's a line in one of his songs that really stuck with me."
+          ],
+          [
+            21,
+            "It gives me a chance to think about my life."
+          ],
+          [
+            22,
+            "I could die tomorrow, so I want to make the most of my life."
+          ],
+          [
+            23,
+            "You never know what could happen tomorrow, so I want to live my life to the fullest."
+          ]
+        ]
+      }
+    ]
   }
 ]
